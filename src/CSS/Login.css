@@ -1,0 +1,101 @@
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.loginimg{
+  margin-top: 100px;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  border-radius: 200px;
+  margin-left: 0px;
+  box-shadow: 2px 2px 7px 7px #99A799;
+}
+
+.Login{
+  margin-top: -370px;
+  margin-left: 420px;
+  width: 700px;
+  height: 300px;
+  text-align: center;
+  background-color:white;
+  
+  box-shadow: 2px 2px 7px 7px #99A799;
+}
+
+h1 {
+  font-weight: 100;
+  color: white;
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgb(79, 98, 148);
+}
+
+
+
+p {
+  color:black;
+  font-weight: bold;
+}
+
+p::before {
+  display: inline;
+}
+
+input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid black;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+label {
+  line-height: 2;
+  text-align: left;
+  display: block;
+  margin-bottom: 13px;
+  margin-top: 10px;
+  color: black;
+  font-size: 17px;
+  font-weight: 200;
+}
+
+.buttonlogin{
+  cursor: pointer;
+  background: #ec5990;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  margin-top: 30px;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 10px;
+  border-radius: 20px;
+}
+.buttonlogin:hover{
+  background-color: red;
+}
+
+.buttonResi{
+  cursor: pointer;
+  background: #4E9F3D;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  margin-top: 10px;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 10px;
+  border-radius: 20px;
+}
+.buttonResi:hover{
+ background-color: #1E5128;
+}

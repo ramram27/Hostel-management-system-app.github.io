@@ -1,0 +1,45 @@
+.boyhostelDiv{
+  margin-left: 370px;
+  width: 700px;
+  height: 250vh;
+  text-align: center;
+  background-color: white;
+  
+  box-shadow: 1px 1px 7px 7px #99A799;
+}
+
+.Submitformboy{
+  cursor: pointer;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  margin-top: 10px;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 10px;
+  border-radius: 20px;
+  background-color: #FF0000;
+}
+
+.Submitformboy:hover{
+    background-color: #3E7C17; 
+    opacity: 1;
+}
+
+select{
+  
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 200px;
+  border: 1px solid black;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  font-size: 14px
+}
+
+.boysHead{
+  color: blue;
+  background-color: #FEF9EF;
+}

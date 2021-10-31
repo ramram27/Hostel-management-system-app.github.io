@@ -1,0 +1,163 @@
+body {
+  /* background: #0e101c; */
+  /* background-color: #AEA275; */
+  /* border-color: #B2F9FC; */
+  background-color: #E8E1D9;
+
+}
+.signupimg{
+  
+  margin-top: 100px;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  border-radius: 200px;
+  margin-left: 0px;
+  box-shadow: 2px 2px 7px 7px #99A799;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.signup{
+  margin-top: -450px;
+  margin-left: 420px;
+  width: 700px;
+  height: 470px;
+  text-align: center;
+  background-color: white;
+  
+  box-shadow: 1px 1px 7px 7px #99A799;
+}
+
+h1 {
+  font-weight: 100;
+  color: white;
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgb(79, 98, 148);
+}
+
+
+
+p {
+  color:black;
+  font-weight: bold;
+}
+
+p::before {
+  display: inline;
+}
+
+input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 200px;
+  border: 1px solid black;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+label {
+  line-height: 2;
+  text-align: left;
+  display: block;
+  margin-bottom: 0px;
+  color: black;
+  font-size: 17px;
+  font-weight: 200;
+}
+
+.buttonRes{
+  cursor: pointer;
+  background: #4E9F3D;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  margin-top: 30px;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 10px;
+  border-radius: 20px;
+}
+.buttonRes:hover{
+ background-color: #1E5128;
+}
+ .buttonlog{
+  cursor: pointer;
+  background: #ec5990;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  margin-top: 10px;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 10px;
+  border-radius: 20px;
+ }
+
+ .buttonlog:hover{
+  background-color: red;
+}
+
+/* 
+ button[type="submit"]:hover,
+input[type="submit"]:hover {
+  background: #bf1650;
+}
+
+button[type="submit"]:active,
+input[type="button"]:active,
+input[type="submit"]:active {
+  transition: 0.3s all;
+  transform: translateY(3px);
+  border: 1px solid transparent;
+  opacity: 0.8;
+}
+
+input:disabled {
+  opacity: 0.4;
+}
+
+
+button[type="submit"],
+input[type="button"],
+input[type="submit"] {
+  -webkit-appearance: none;
+}
+
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+button[type="button"] {
+  display: block;
+  appearance: none;
+  background: #333;
+  color: white;
+  border: none;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border-radius: 4px;
+}
+
+hr {
+  margin-top: 30px;
+}
+button {
+  display: block;
+  appearance: none;
+  margin-top: 40px;
+  border: 1px solid #333;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border-radius: 4px;
+}  */

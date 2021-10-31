@@ -1,0 +1,23 @@
+.header{
+  padding: 30px;
+  width: 100%;
+  font-size: 22px;
+  box-shadow: 2px 2px 5px 5px #A2D2FF;
+  background-color: #B2F9FC;
+}
+
+
+
+.head {
+  font-size: 30px;
+  margin-right: 60px;
+  margin-top: 0px;
+  color:#000000;
+  font-weight: bold;
+}
+
+.Link1{
+  margin-left: 70px;
+  text-decoration: none;
+}
+
